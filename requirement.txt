@@ -1,0 +1,4 @@
+sudo pip3 install --upgrade numpy scipy
+sudo apt-get update && sudo apt-get -y install git cmake
+pip3 install --upgrade Click Pillow
+pip3 install dlib
